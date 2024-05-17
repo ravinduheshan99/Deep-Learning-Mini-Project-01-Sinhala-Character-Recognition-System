@@ -55,7 +55,7 @@ The model is trained using the train_model.py script, which includes:
 ## Results
 The model achieves high accuracy on the validation set, with detailed training logs and accuracy metrics recorded. Example results include:
 
-- Validation Accuracy: Up to 98.67%
+- Validation **Accuracy:** Up to **98.67%**
 - Validation Loss: Fluctuations observed, indicating potential overfitting on certain epochs
   
 ## Key Stages
